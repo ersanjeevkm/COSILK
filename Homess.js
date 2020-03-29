@@ -1,6 +1,6 @@
-var timeOnSlide = .5,
+var timeOnSlide = 2,
     // the time each image will remain static on the screen, measured in seconds
-    timeBetweenSlides = .25,
+    timeBetweenSlides = 1,
     // the time taken to transition between images, measured in seconds
 
 // test if the browser supports animation, and if it needs a vendor prefix to do so
