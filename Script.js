@@ -2,11 +2,11 @@ var i=0;
 function menu(){
     i++;
     if(i%2===1) {
-        document.getElementById("menu").style.fontSize="22px";
+        document.getElementById("menu").style.fontSize="20px";
         document.getElementById("inn").style.display = "block";
     }
     else{
-        document.getElementById("menu").style.fontSize="15px";
+        document.getElementById("menu").style.fontSize="22px";
         document.getElementById("inn").style.display = "none";
     }
 }
